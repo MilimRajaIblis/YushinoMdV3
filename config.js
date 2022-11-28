@@ -39,13 +39,13 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281258554054', 'Binnnn', true],
+['6289653436302', 'Xzy', true],
 ['6289653436302', 'Xzy', true]
 ]
 global.mods = []
 global.prems = []
 global.nomorbot = '6288210178332'
-global.nomorown = '6281258554054'
+global.nomorown = '6289653436302'
 global.nomorown1 = '6289653436302'
 global.nomorown2 = '6289653436302'
 global.nomorwa = '0'
@@ -54,23 +54,23 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Binn X Ri'
+global.author = 'Created By Xzy'
 global.namebot = 'Darkness Bot'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Binn X Ri'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Xzy'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
 global.wm2 = 'Darkness Bot'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Binnn 𝐗 Ri`
-global.stickpack = 'Binnn 𝐗 RI'
+global.titlebot = `Xzy`
+global.stickpack = 'Xzy'
 global.stickauth = `© Darkness Bot`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Binnn'
-global.nameown2 = 'Ri'
+global.nameown1= 'Xzy'
+global.nameown2 = 'Xzy'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
